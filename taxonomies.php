@@ -1,4 +1,14 @@
 <?php
+    /**
+    * Plugin Name: Taxonomies
+    * Plugin URI: http://ileotech.com/
+    * Description: Taxonomies creation tool
+    * Version: 1.0
+    * Author: Simon BERNARD for Ileotech
+    * Author URI: http://ileotech.com/
+    * License: All rights reserved to Ileotech
+    */
+
 
 	/**
 	* --------------------------------------------------------------------
