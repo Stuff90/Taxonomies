@@ -52,6 +52,7 @@
 
         public function setLanguage( $theLanguage ) {
             $this->language = $theLanguage;
+            return $this;
         }
 
 		public function setSlug( $slug )	 { $this->slug = $slug; return $this; }
